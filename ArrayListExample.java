@@ -16,7 +16,7 @@ class ArrayListExample {
         // Appending new elements at
         // the end of the list
         Scanner scan = new Scanner(System.in);
-        System.out.print("Enter any number: ");
+        System.out.print("Enter array list numbers:");
         for (int i = 1; i <= n; i++)
             arrli.add(scan.nextInt());
 
