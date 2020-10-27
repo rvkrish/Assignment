@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 
+
 class ArrayListExample {
     public static void main(String[] args)
     {
